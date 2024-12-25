@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-banner {
+    background-image: url('/assets/alien.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
